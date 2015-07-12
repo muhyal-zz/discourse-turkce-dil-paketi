@@ -1073,6 +1073,7 @@ tr_TR:
         reply: "bu gönderiye bir cevap oluşturmaya başlayın"
         like: "bu gönderiyi beğen"
         has_liked: "bu gönderiyi beğendiniz"
+        has_likes: "Gönderi beğeni içeriyor"
         undo_like: "beğenmekten vazgeç"
         edit: "bu gönderiyi düzenle"
         edit_anonymous: "Üzgünüz, ama bu gönderiyi düzenleyebilmek için oturum açmalısınız."
