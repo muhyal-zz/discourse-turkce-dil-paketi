@@ -1047,7 +1047,21 @@ tr_TR:
       more_links: "{{count}} tane daha..."
       unread: "Gönderi okunmamış"
       has_replies:
+        one: "{{count}} Cevap"
         other: "Cevaplar"
+      has_likes:
+        one: "{{count}} Beğeni"
+        other: "{{count}} Beğeni"
+
+      has_likes_title:
+        one: "1 kişi bunu beğendi"
+        other: "{{count}} kişi bunu beğendi"
+
+      has_likes_title_you:
+        zero: "Bu gönderiyi beğendiniz"
+        one: "Siz ve başkaları bunu beğendi"
+        other: "Siz ve diğer {{count}} kişi bunu beğendi"
+        
       errors:
         create: "Üzgünüz, gönderiniz oluşturulurken bir hata oluştu. Lütfen tekrar deneyin."
         edit: "Üzgünüz, gönderiniz düzenlenirken bir hata oluştu. Lütfen tekrar deneyin. "
