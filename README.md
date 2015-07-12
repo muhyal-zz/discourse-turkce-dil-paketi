@@ -1,8 +1,6 @@
 # discourse-turkce-dil-paketi
 Discourse için özel Türkçe dil paketidir (Resmi sürüm dil paketini kullanmak istemeyenler için.).
 
-## Unutmayın! Bu paket yalnızca Türkçe dilini içermektedir.
-
 Kurulum için altta vermiş olduğum kodu `/var/discourse/containers/app.yml` dosyasına ekleyin.
 
 ```
