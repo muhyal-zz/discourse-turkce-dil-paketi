@@ -1050,8 +1050,8 @@ tr_TR:
         one: "{{count}} Cevap"
         other: "Cevaplar"
       has_likes:
-        one: "{{count}} Beğeni"
-        other: "{{count}} Beğeni"
+        one: "{{count}} beğeni"
+        other: "{{count}} beğeni"
 
       has_likes_title:
         one: "1 kişi bunu beğendi"
